@@ -1,0 +1,13 @@
+body {
+    background-color: #001e3c;
+}
+
+.file-input {
+    margin-right: 1cm;
+    width: 5cm;
+}
+
+.file-input.MuiFileInput-TextField {
+    border: 2px solid white;
+    border-radius: 10px;
+}
